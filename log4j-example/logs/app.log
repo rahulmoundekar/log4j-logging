@@ -1,0 +1,15 @@
+2020-06-08 15:13:33,390 DEBUG c.a.Log4jExample [main] Debug Message Logged !!!
+2020-06-08 15:13:33,416 INFO c.a.Log4jExample [main] Info Message Logged !!!
+2020-06-08 15:13:33,416 WARN c.a.Log4jExample [main] This is warn
+2020-06-08 15:13:59,406 DEBUG c.a.Log4jExample [main] Debug Message Logged !!!
+2020-06-08 15:13:59,422 INFO c.a.Log4jExample [main] Info Message Logged !!!
+2020-06-08 15:13:59,424 WARN c.a.Log4jExample [main] This is warn
+2020-06-08 15:13:59,425 ERROR c.a.Log4jExample [main] Error Message Logged !!!
+java.lang.NullPointerException: NullError
+	at com.app.Log4jExample.main(Log4jExample.java:15) [classes/:?]
+2020-06-08 15:27:19,980 DEBUG c.a.Log4jExample [main] Debug Message Logged !!!
+2020-06-08 15:27:19,986 INFO c.a.Log4jExample [main] Info Message Logged !!!
+2020-06-08 15:27:20,036 WARN c.a.Log4jExample [main] This is warn
+2020-06-08 15:27:20,037 ERROR c.a.Log4jExample [main] Error Message Logged !!!
+java.lang.NullPointerException: NullError
+	at com.app.Log4jExample.main(Log4jExample.java:15) [classes/:?]
